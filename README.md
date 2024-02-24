@@ -4,7 +4,7 @@
 This repository contains the analysis conducted using JMP Pro statistical software to decipher user engagement rates. Various statistical tests, including Two-Sample T-Test (Equality of Means), Simple Linear Regression, Paired T-Test, and Chi-Square Test for Goodness of Fit, have been performed on the provided dataset.
 
 ## Data
-The dataset used for this analysis is stored in the 'UserEngagementData.csv' file within this repository. It includes variables related to user engagement metrics, such as time spent on the platform, engagement rate, frequency of posting, and preferred content. The dataset comprises [number of observations] rows of data.
+The dataset used for this analysis is stored in the 'UserEngagementData.csv' file within this repository. It includes variables related to user engagement metrics, such as time spent on the platform, engagement rate, frequency of posting, and preferred content.
 
 ## Statistical Analysis
 ### Two-Sample T-Test (Equality of Means)
